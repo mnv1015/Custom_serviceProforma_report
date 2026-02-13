@@ -10,7 +10,7 @@ The implementation enables users to generate a **custom-designed pro forma docum
 ## Tech Stack
 
 - **AL Language** – Extension development and business logic  
-- **RDLC Reporting** – Custom pro forma layout and rendering  
+- **MS Report Builder** – RDLC reporting,  Custom pro forma layout and rendering  
 - **Business Central Workflow & Email Framework** – Communication handling  
 - **Report Builder Dataset Methods** – Dynamic header and dataset exchange  
 - **Custom AL Data Processing** – Shortcut Dimension 5 & 6 retrieval and grouping logic  
